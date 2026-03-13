@@ -4,7 +4,7 @@ In the past couple years, I picked up a few coding classes here and there but wa
 
 !! I made my project in VS Code using HTML, CSS, and JS. !!
 
-While coding this website, I struggled mostly with card styles, fine tuning all the spaces of boxes and containers, as well as organizing layouts so they look good on all screen sizes (I gave up on that dream 😅). The clicky cursor sounds was also a big struggle, and took up a much larger chunk of time than I would've liked?
+While coding this website, I struggled mostly with card styles, fine tuning all the spaces of boxes and containers, as well as organizing layouts so they look good on all screen sizes (I gave up on that dream 😅). The clicky cursor sounds was also a big struggle, and took up a much larger chunk of time than I would've liked? (thank you google, copilot, and youtube)
 
 From this website however, I grasped a better understanding of HTML page structures, and also learned how to connect JS for more interactivity (never done before). I also used formspree for the first time, allowing users to send me anonymous messages which has always been a website dream of mine, so I'm glad I learned how to do that.
 
