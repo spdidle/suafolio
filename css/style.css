@@ -35,7 +35,7 @@ nav a{
 }
 
 nav a:hover{
-    background:var(--blue-accent);
+    background:var(--accent);
     color:black;
 }
 
@@ -140,7 +140,7 @@ nav a:hover{
 
 .photo-card img{ height:220px; }
 
-/* gallery layout */
+/* gallery */
 
 .gallery{
     display:flex;
@@ -157,7 +157,7 @@ nav a:hover{
     justify-content:center;
 }
 
-/* msg box */
+/* msg */
 
 form{
     max-width:500px;
@@ -225,8 +225,6 @@ button{
     overflow-y:auto;
 }
 
-/* grid */
-
 .projects-grid{
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -245,8 +243,6 @@ button{
     margin-top:0;
 }
 
-/* description of project */
-
 .desc{
     font-size:15px;
     line-height:1.5;
@@ -262,7 +258,7 @@ grid-template-columns:1fr;
 
 /* star cursor efect*/
 .star {
-	position: fixed;
+	position: absolute;
 	pointer-events: none;
 }
 
@@ -280,7 +276,8 @@ grid-template-columns:1fr;
 }
 
 .star:after {
-	background: rgb(182, 181, 181);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+    background: rgb(182, 181, 181);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
